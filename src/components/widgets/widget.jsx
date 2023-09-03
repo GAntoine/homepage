@@ -15,6 +15,7 @@ const widgetMappings = {
   openmeteo: dynamic(() => import("components/widgets/openmeteo/openmeteo")),
   longhorn: dynamic(() => import("components/widgets/longhorn/longhorn")),
   kubernetes: dynamic(() => import("components/widgets/kubernetes/kubernetes")),
+  iframe: dynamic(() => import("components/widgets/iframe/iframe")),
 };
 
 export default function Widget({ widget, style }) {
