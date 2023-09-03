@@ -26,6 +26,7 @@ const components = {
   flood: dynamic(() => import("./flood/component")),
   freshrss: dynamic(() => import("./freshrss/component")),
   gamedig: dynamic(() => import("./gamedig/component")),
+  gitea: dynamic(() => import("./gitea/component")),
   ghostfolio: dynamic(() => import("./ghostfolio/component")),
   glances: dynamic(() => import("./glances/component")),
   gluetun: dynamic(() => import("./gluetun/component")),

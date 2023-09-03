@@ -741,5 +741,17 @@
         "seemsdown": "Seems Down",
         "down": "Down",
         "unknown": "Unknown"
+    },
+    "gitea": {
+        "notifications": "Notifications",
+        "issue": "Issues",
+        "pull": "Pull Requests",
+        "commit": "Commits",
+        "repository": "Repository",
+        "followers": "Followers",
+        "following": "Following",
+        "repos": "Repositories",
+        "forks": "Stars",
+        "stars": "Forks"
     }
 }

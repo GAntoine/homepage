@@ -21,6 +21,7 @@ import fileflows from "./fileflows/widget";
 import flood from "./flood/widget";
 import freshrss from "./freshrss/widget";
 import gamedig from "./gamedig/widget";
+import gitea from "./gitea/widget";
 import ghostfolio from "./ghostfolio/widget";
 import glances from "./glances/widget";
 import gluetun from "./gluetun/widget";
@@ -121,6 +122,7 @@ const widgets = {
   flood,
   freshrss,
   gamedig,
+  gitea,
   ghostfolio,
   glances,
   gluetun,
